@@ -1,0 +1,107 @@
+<mxfile host="app.diagrams.net" modified="2023-11-08T11:06:27.436Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ixMZLcB3K1ah0PWHNnsX" version="21.7.5" type="github">
+  <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
+    <mxGraphModel dx="1306" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7d933b09d9755ecc-21" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="220" width="85" height="111.15" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-1" value="UserData" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="331.15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-3" value="UserData&amp;nbsp;&lt;br&gt;DataBase" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.954;exitY=0.565;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7d933b09d9755ecc-21">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1520" y="350" as="sourcePoint" />
+            <mxPoint x="1620" y="260" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-91;" vertex="1" parent="1">
+          <mxGeometry x="1475" y="390" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-6" value="Kafka" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1450" y="326.0000000000001" as="sourcePoint" />
+            <mxPoint x="1505.0600562588322" y="424.66983122350337" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1505" y="424.85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-8" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="200" width="85" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-9" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="498.85" width="85" height="111.15" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-10" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=10;endSize=7.44;entryX=-0.012;entryY=0.648;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dllQC5ydkaDHuItenh3X-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1580" y="475" as="sourcePoint" />
+            <mxPoint x="1630" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-12" value="InnerApplication&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1702.5" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-13" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.browser;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="216.5" width="86.48" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-14" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.users;" vertex="1" parent="1">
+          <mxGeometry x="970" y="255" width="64.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=-0.024;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7d933b09d9755ecc-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="290" as="sourcePoint" />
+            <mxPoint x="1330" y="250.57999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-16" value="Swagger" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1183.24" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-17" value="Пользователи заполняют&amp;nbsp;&lt;br&gt;данные" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-18" value="Json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-19" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.smtp_server;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="40" width="76" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1450" y="220" as="sourcePoint" />
+            <mxPoint x="1540" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-21" value="SMTP Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-22" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.users;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="20" width="64.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-23" value="Пользователи" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="972" y="319" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="dllQC5ydkaDHuItenh3X-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670" y="75" as="sourcePoint" />
+            <mxPoint x="1790" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dllQC5ydkaDHuItenh3X-26" value="Администраторы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1802" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
